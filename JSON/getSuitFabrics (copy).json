@@ -1,0 +1,326 @@
+{
+    "fabric": [
+      {
+        "id": "6",
+        "name": "Beverly",
+        "fabric_360": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/display_thumb/5d287fe145fde.png",
+        "fabric_1000": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/5cf7b940665c1_699_huge.jpg",
+        "price": "69.00",
+        "material_parent": "Wool",
+        "pattern_parent": "Plain",
+        "season_parent": "Mid-season",
+        "color_parent": "Grey",
+        "category_parent": "Faves",
+        "manufacturer_parent": "Loro Piana",
+        "drawing_parent": "Prince of wales",
+        "description": [
+          {
+            "categorygroup_id": "2",
+            "title": "Premium",
+            "group_img": "shirt_category_group/5d4d53c378e78_5d15fcfada284_premium.png",
+            "desc": "test Premium",
+            "status": "1"
+          },
+          {
+            "categorygroup_id": "3",
+            "title": "test col45",
+            "group_img": "shirt_category_group/5d4d53d510bab_5d15fcaebdaf0_sewing.png",
+            "desc": "rtert",
+            "status": "1"
+          }
+        ],
+        "excellencerating": "",
+        "warmthrating": "",
+        "weightrating": "",
+        "threadstyle": null,
+        "brightness": null,
+        "supershiny": null,
+        "shirttone": null,
+        "weight": null,
+        "threadcount": null,
+        "opacity": null,
+        "waterproof": null,
+        "shirtsstretchy": null,
+        "fabric_combination": "",
+        "stretchy_text": ""
+      },
+      {
+        "id": "7",
+        "name": "Azalaya",
+        "fabric_360": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/display_thumb/5d287f647a75e.png",
+        "fabric_1000": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/5d01e7eb0167e_1608_huge.jpg",
+        "price": "200.00",
+        "material_parent": "linen",
+        "pattern_parent": "Squared",
+        "season_parent": "Summer",
+        "color_parent": "Blue",
+        "category_parent": "Winter",
+        "manufacturer_parent": "Scabal",
+        "drawing_parent": "Pinstripe",
+        "description": [
+          {
+            "categorygroup_id": "3",
+            "title": "test col45",
+            "group_img": "shirt_category_group/5d4d53d510bab_5d15fcaebdaf0_sewing.png",
+            "desc": "rtert",
+            "status": "1"
+          }
+        ],
+        "excellencerating": "5",
+        "warmthrating": "4",
+        "weightrating": "3",
+        "threadstyle": null,
+        "brightness": null,
+        "supershiny": null,
+        "shirttone": null,
+        "weight": null,
+        "threadcount": null,
+        "opacity": null,
+        "waterproof": null,
+        "shirtsstretchy": null,
+        "fabric_combination": "",
+        "stretchy_text": ""
+      },
+      {
+        "id": "8",
+        "name": "Teslin",
+        "fabric_360": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/display_thumb/5d25b1b35fa95.png",
+        "fabric_1000": "http://esclusivodev.katdev.com/media/shirt_images/fab_shirt_images/5d49144b8287d_1969_huge.jpg",
+        "price": "100.00",
+        "material_parent": "linen",
+        "pattern_parent": "Other",
+        "season_parent": "Winter",
+        "color_parent": "Blue",
+        "category_parent": "Winter",
+        "manufacturer_parent": "Scabal",
+        "drawing_parent": "Prince of wales",
+        "description": [
+          
+        ],
+        "excellencerating": "5",
+        "warmthrating": "4",
+        "weightrating": "3",
+        "threadstyle": null,
+        "brightness": null,
+        "supershiny": null,
+        "shirttone": null,
+        "weight": null,
+        "threadcount": null,
+        "opacity": null,
+        "waterproof": null,
+        "shirtsstretchy": null,
+        "fabric_combination": "",
+        "stretchy_text": ""
+      }
+    ],
+    "category": [
+      [
+        {
+          "id": "1",
+          "name": "Wool",
+          "parent": "material"
+        },
+        {
+          "id": "2",
+          "name": "Corduroy",
+          "parent": "material"
+        },
+        {
+          "id": "3",
+          "name": "linen",
+          "parent": "material"
+        },
+        {
+          "id": "4",
+          "name": "Polyester",
+          "parent": "material"
+        },
+        {
+          "id": "5",
+          "name": "Velvet",
+          "parent": "material"
+        },
+        {
+          "id": "6",
+          "name": "Pure Cotton",
+          "parent": "material"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Squared",
+          "parent": "pattern"
+        },
+        {
+          "id": "2",
+          "name": "Plain",
+          "parent": "pattern"
+        },
+        {
+          "id": "3",
+          "name": "Striped",
+          "parent": "pattern"
+        },
+        {
+          "id": "4",
+          "name": "Chevron pattern",
+          "parent": "pattern"
+        },
+        {
+          "id": "5",
+          "name": "Houndstooth ",
+          "parent": "pattern"
+        },
+        {
+          "id": "6",
+          "name": "paisley",
+          "parent": "pattern"
+        },
+        {
+          "id": "7",
+          "name": "herringbone",
+          "parent": "pattern"
+        },
+        {
+          "id": "8",
+          "name": "Other",
+          "parent": "pattern"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Summer",
+          "parent": "seasons"
+        },
+        {
+          "id": "2",
+          "name": "Winter",
+          "parent": "seasons"
+        },
+        {
+          "id": "3",
+          "name": "Mid-season",
+          "parent": "seasons"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Grey",
+          "parent": "color"
+        },
+        {
+          "id": "2",
+          "name": "Black",
+          "parent": "color"
+        },
+        {
+          "id": "3",
+          "name": "Blue",
+          "parent": "color"
+        },
+        {
+          "id": "4",
+          "name": "Brown",
+          "parent": "color"
+        },
+        {
+          "id": "5",
+          "name": "White Shade",
+          "parent": "color"
+        },
+        {
+          "id": "6",
+          "name": "pink",
+          "parent": "color"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "All",
+          "parent": "category",
+          "class": "icon-All"
+        },
+        {
+          "id": "2",
+          "name": "Faves",
+          "parent": "category",
+          "class": "icon-Faves"
+        },
+        {
+          "id": "3",
+          "name": "Winter",
+          "parent": "category",
+          "class": "icon-Winter"
+        },
+        {
+          "id": "4",
+          "name": "Basic",
+          "parent": "category",
+          "class": "icon-Basic"
+        },
+        {
+          "id": "5",
+          "name": "Premium",
+          "parent": "category",
+          "class": "icon-Premium"
+        },
+        {
+          "id": "6",
+          "name": "Limited Edition",
+          "parent": "category",
+          "class": "icon-Limited_Edition"
+        },
+        {
+          "id": "7",
+          "name": "New",
+          "parent": "category",
+          "class": "icon-New"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Holland \u0026 Sherry",
+          "parent": "manufacturer"
+        },
+        {
+          "id": "2",
+          "name": "Scabal",
+          "parent": "manufacturer"
+        },
+        {
+          "id": "3",
+          "name": "Loro Piana",
+          "parent": "manufacturer"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Pinstripe",
+          "parent": "drawing"
+        },
+        {
+          "id": "2",
+          "name": "Prince of wales",
+          "parent": "drawing"
+        }
+      ],
+      [
+        {
+          "id": "1",
+          "name": "Increasing",
+          "parent": "price"
+        },
+        {
+          "id": "2",
+          "name": "Decreasing",
+          "parent": "price"
+        }
+      ]
+    ]
+  }

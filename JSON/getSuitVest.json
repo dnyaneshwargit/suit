@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "name": "style",
+      "class": "suit-icon-Vest_Single_breasted_4_buttons",
+      "status":1,
+      "style": [
+        {
+          "id": "1",
+          "style_id": "1",
+          "class": "suit-icon-Vest_style_main",
+          "name": "Single Breasted 3 Buttons",
+          "price": "35.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "3",
+          "status":1
+        }, {
+          "id": "2",
+          "style_id": "1",
+          "class": "suit-icon-Vest_Single_breasted_4_buttons",
+          "name": "Single Breasted 4 Buttons",
+          "price": "35.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "4",
+          "status":1
+        },
+        {
+          "id": "3",
+          "style_id": "1",
+          "class": "suit-icon-Vest_Single_breasted_5_buttons",
+          "name": "Single Breasted 5 Buttons",
+          "price": "40.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "5",
+          "status":1
+        },
+        {
+          "id": "4",
+          "style_id": "1",
+          "class": "suit-icon-Vest_Single_Breasted_6_buttons",
+          "name": "Single Breasted 6 Buttons",
+          "price": "0.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "6",
+          "status":1
+        },
+        {
+          "id": "5",
+          "style_id": "2",
+          "class": "suit-icon-Vest_Double_breasted",
+          "name": "Double Breasted 4 Buttons",
+          "price": "0.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "4",
+          "status":1
+        },
+        {
+          "id": "6",
+          "style_id": "2",
+          "class": "suit-icon-Vest_Double_breasted_6_buttons",
+          "name": "Double Breasted 6 Buttons",
+          "price": "45.00",
+          "parent": "veststyle",
+          "designType": "vest",
+          "btn_count": "6",
+          "status":1
+         }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lapel",
+      "class": "suit-icon-Vest_Notched",
+      "status":1,
+      "style": [
+        {
+          "id": 0,
+          "name": "No Lapel",
+          "parent": "vestlapel",
+          "class": "suit-icon-Vest_v_shape",
+          "price": "0.00",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": 1,
+          "name": "Notch",
+          "parent": "vestlapel",
+          "class": "suit-icon-Vest_Notched",
+          "price": "0.00",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": 2,
+          "name": "Peak",
+          "parent": "vestlapel",
+          "class": "suit-icon-Vest_Peak",
+          "price": "0.00",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": 3,
+          "name": "Shawl",
+          "parent": "vestlapel",
+          "class": "suit-icon-Vest_shawl",
+          "price": "0.00",
+          "designType": "vest",
+          "status":1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pockets",
+      "class": "suit-icon-With_Flap",
+      "status":1,
+      "style": [
+        {
+          "id": "0",
+          "name": "No Pocket",
+          "price": "0.00",
+          "parent": "vestpockets",
+          "class": "suit-icon-No_Pockets",
+          "designType": "vest"
+        },
+        {
+          "id": "1",
+          "name": "Flap Pocket",
+          "price": "0.00",
+          "parent": "vestpockets",
+          "class": "suit-icon-With_Flap",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": "2",
+          "name": "Welted Pocket",
+          "price": "0.00",
+          "parent": "vestpockets",
+          "class": "suit-icon-Yes",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": "3",
+          "name": "Double welted pocket",
+          "price": "0.00",
+          "parent": "vestpockets",
+          "class": "suit-icon-Double_Welted",
+          "designType": "vest",
+          "status":1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Breast Pockets",
+      "class": "suit-icon-Vest_Breast_Pocket_Yes",
+      "status":1,
+      "style": [
+        {
+          "id": 1,
+          "name": "Breast Pocket",
+          "price": "0.00",
+          "class": "suit-icon-Vest_Breast_Pocket_Yes",
+          "parent": "vestbreastpocket",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": 2,
+          "name": "Without Breast Pocket",
+          "price": "0.00",
+          "class": "suit-icon-Vest_Breast_Pocket_No",
+          "parent": "vestbreastpocket",
+          "designType": "vest",
+          "status":1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Edge",
+      "class": "suit-icon-Vest_Straight",
+      "status":1,
+      "style": [
+        {
+          "id": "1",
+          "name": "Straight",
+          "price": "0.00",
+          "parent": "vestedge",
+          "class": "suit-icon-Vest_Straight",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": "2",
+          "name": "Diagonal",
+          "price": "0.00",
+          "parent": "vestedge",
+          "class": "suit-icon-Vest_Diagonal",
+          "designType": "vest",
+          "status":1
+        },
+        {
+          "id": "3",
+          "name": "Rounded",
+          "price": "0.00",
+          "parent": "vestedge",
+          "class": "suit-icon-Vest_Rounded",
+          "designType": "vest",
+          "status":1
+        }
+      ] 
+    }
+  ]

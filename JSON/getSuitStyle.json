@@ -1,0 +1,351 @@
+[
+  {
+    "id": 1,
+    "designType": "jacket",
+    "name": "fit",
+    "class": "suit-icon-Single_Breasted_2_Button",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "class": "suit-icon-Slim_Fit",
+        "parent": "fit",
+        "designType": "jacket",
+        "name": "Slim Fit",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": "2",
+        "class": "suit-icon-Fit_Main_Icon",
+        "parent": "fit",
+        "designType": "jacket",
+        "name": "Classic Fit",
+        "price": "0.00",
+        "status":1      
+      },
+      {
+        "id": "3",
+        "class": "suit-icon-Large_Fit",
+        "parent": "fit",
+        "designType": "jacket",
+        "name": "XL\/Plus Size",
+        "price": "0.00",
+        "status":1 
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "designType": "jacket",
+    "name": "style",
+    "class": "suit-icon-Main_Style_Icon",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "style_id": "1",
+        "type": "1",
+        "price": "0.00",
+        "class": "suit-icon-Single_Breasted_1_Button",
+        "name": "Single Breasted 1 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "1",
+        "status":1
+      },
+      {
+        "id": "2",
+        "style_id": "1",
+        "type": "1",
+        "price": "0.00",
+        "class": "suit-icon-Single_Breasted_2_Button",
+        "name": "Single Breasted 2 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "2",
+        "status":1
+      },
+      {
+        "id": "3",
+        "style_id": "1",
+        "type": "1",
+        "price": "0.00",
+        "class": "suit-icon-Single_Breasted_3_Button",
+        "name": "Single Breasted 3 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "3",
+        "status":1
+      },
+      {
+        "id": "4",
+        "style_id": "2",
+        "type": "2",
+        "price": "0.00",
+        "class": "suit-icon-Double_Breasted_2_Buttons",
+        "name": "Double Breasted 2 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "2",
+        "status":1
+      },
+      {
+        "id": "5",
+        "style_id": "2",
+        "type": "2",
+        "price": "0.00",
+        "class": "suit-icon-Double_Breasted_4_Buttons",
+        "name": "Double Breasted 4 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "4",
+        "status":1
+      },
+      {
+        "id": "6",
+        "style_id": "2",
+        "type": "2",
+        "price": "0.00",
+        "class": "suit-icon-Double_Breasted_6_Buttons",
+        "name": "Double Breasted 6x2 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "0",
+        "status":1
+      },
+      {
+        "id": "7",
+        "style_id": "2",
+        "type": "2",
+        "price": "0.00",
+        "class": "suit-icon-Double_Breasted_8_Buttons",
+        "name": "Double Breasted 8 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "0",
+        "status":1
+      },
+      {
+        "id": "10",
+        "style_id": "3",
+        "type": "3",
+        "price": "0.00",
+        "class": "suit-icon-Mandarin",
+        "name": "Mandarin 5 Button",
+        "parent": "style",
+        "designType": "jacket",
+        "btn_count": "5",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "lapel",
+    "designType": "jacket",
+    "class": "suit-icon-Lapel",
+    "status":1,
+    "style": [
+      {
+        "id": 1,
+        "parent": "lapel",
+        "class": "suit-icon-Slim_Lapel",
+        "designType": "jacket",
+        "name": "Notch Slim",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": 2,
+        "parent": "lapel",
+        "class": "suit-icon-Standard",
+        "designType": "jacket",
+        "name": "Notch Regular",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": 3,
+        "parent": "lapel",
+        "class": "suit-icon-Wide",
+        "designType": "jacket",
+        "name": "Notch Wide",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": 7,
+        "parent": "lapel",
+        "class": "suit-icon-Peak",
+        "designType": "jacket",
+        "name": "Peak Slim",
+        "price": "0.00",
+        "status":1
+      },{
+        "id": 8,
+        "parent": "lapel",
+        "class": "suit-icon-Peak",
+        "designType": "jacket",
+        "name": "Peak Regular",
+        "price": "0.00",
+        "status":1
+      },{
+        "id": 9,
+        "parent": "lapel",
+        "class": "suit-icon-Peak",
+        "designType": "jacket",
+        "name": "Peak Wide",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": 10,
+        "parent": "lapel",
+        "class": "suit-icon-Shawl",
+        "designType": "jacket",
+        "name": "Shawl Slim",
+        "price": "0.00",
+        "status":1
+      },{
+        "id": 11,
+        "parent": "lapel",
+        "class": "suit-icon-Shawl",
+        "designType": "jacket",
+        "name": "Shawl Regular",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": 12,
+        "parent": "lapel",
+        "class": "suit-icon-Shawl",
+        "designType": "jacket",
+        "name": "Shawl Wide",
+        "price": "0.00",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "pockets",
+    "designType": "jacket",
+    "class": "suit-icon-Pockets_Main_Icon",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "name": "No Pocket",
+        "price": "0.00",
+        "parent": "pockets",
+        "class": "suit-icon-No_Pockets",
+        "designType": "jacket",
+        "status":1
+      },
+      {
+        "id": "2",
+        "class": "suit-icon-With_Flap",
+        "name": "Flap Pockets",
+        "price": "0.00",
+        "parent": "pockets",
+        "designType": "jacket",
+        "status":1
+      },
+      {
+        "id": "3",
+        "class": "suit-icon-Patched",
+        "name": "Patch Pockets",
+        "price": "0.00",
+        "parent": "pockets",
+        "designType": "jacket",
+        "status":1
+      },
+      {
+        "id": "4",
+        "class": "suit-icon-Double_Welted",
+        "name": "Welted Pockets",
+        "price": "0.00",
+        "parent": "pockets",
+        "designType": "jacket",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "designType": "jacket",
+    "name": "sleeve buttons",
+    "class": "suit-icon-Sleeve_Main_Icon",
+    "status":1,
+      "style": [
+      {
+        "id": "1",
+        "class": "suit-icon-button2",
+        "btn_count": "2",
+        "parent": "sleevebuttons",
+        "designType": "jacket",
+        "name": "2 Button",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": "2",
+        "class": "suit-icon-button3",
+        "btn_count": "3",
+        "parent": "sleevebuttons",
+        "designType": "jacket",
+        "name": "3 Button",
+        "price": "0.00",
+        "status":1
+      },
+      {
+        "id": "3",
+        "class": "suit-icon-button4",
+        "btn_count": "4",
+        "parent": "sleevebuttons",
+        "designType": "jacket",
+        "name": "4 Button",
+        "price": "0.00",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "vents",
+    "designType": "jacket",
+    "class": "suit-icon-Center_Vents",
+    "status":1,
+      "style": [
+        {
+          "id": "1",
+          "name": "No Vent",
+          "price": "0.00",
+          "class": "suit-icon-No",
+          "parent": "vents",
+          "designType": "jacket",
+          "status":1
+        },
+      {
+        "id": "2",
+        "name": "Center Vent",
+        "price": "0.00",
+        "class": "suit-icon-Center_Vents",
+        "parent": "vents",
+        "designType": "jacket",
+        "status":1
+      },
+      {
+        "id": "3",
+        "name": "Side Vent",
+        "price": "0.00",
+        "class": "suit-icon-Side_Vents",
+        "parent": "vents",
+        "designType": "jacket",
+        "status":1
+      }
+      
+    ]
+  }
+]

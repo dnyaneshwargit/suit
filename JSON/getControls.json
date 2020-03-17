@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "Zoom In/Out",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Zoom In"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Zoom Out"
+        }]
+    },
+    {
+        "id": 2,
+        "name": "Hide/Show Mannequin",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Show Mannequin"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Hide Mannequin"
+        }]
+    },
+    {
+        "id": 3,
+        "name": "Fabric View",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Fabric View"
+        }]
+    },
+    {
+        "id": 4,
+        "name": "Hide/Show Jacket",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Show Jacket"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Hide Jacket"
+        }]
+    }, 
+    {
+        "id": 5,
+        "name": "Hide/Show Vest",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Show Vest"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Hide Vest"
+        }]
+    },
+    {
+        "id": 6,
+        "name": "Move Up/Down",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Move Up"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Move Down"
+        }]
+    },
+    {
+        "id": 7,
+        "name": "Hide/Show Tie",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Hide Tie"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Show Tie"
+        }]
+    },
+    {
+        "id": 8,
+        "name": "Hide/Show Bow",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Hide Bow"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "Show Bow"
+        }]
+    },
+    {
+        "id": 9,
+        "name": "Jeans/Pant",
+        "status":1,
+        "style":[{
+            "id": "1",
+            "class": "suit-icon-button2",
+            "name": "Jeans"
+        },
+        {
+            "id": "2",
+            "class": "suit-icon-button2",
+            "name": "pant"
+        }]
+    }
+]

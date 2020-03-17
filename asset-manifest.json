@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dnyaneshwargit/suit/static/css/main.0d83af2e.chunk.css",
+    "main.js": "/dnyaneshwargit/suit/static/js/main.a7436ee8.chunk.js",
+    "main.js.map": "/dnyaneshwargit/suit/static/js/main.a7436ee8.chunk.js.map",
+    "runtime-main.js": "/dnyaneshwargit/suit/static/js/runtime-main.83f3f065.js",
+    "runtime-main.js.map": "/dnyaneshwargit/suit/static/js/runtime-main.83f3f065.js.map",
+    "static/css/2.fa4a79a6.chunk.css": "/dnyaneshwargit/suit/static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.1ea631b7.chunk.js": "/dnyaneshwargit/suit/static/js/2.1ea631b7.chunk.js",
+    "static/js/2.1ea631b7.chunk.js.map": "/dnyaneshwargit/suit/static/js/2.1ea631b7.chunk.js.map",
+    "index.html": "/dnyaneshwargit/suit/index.html",
+    "precache-manifest.24f0b0a47b3af38f920b7ac587d57de0.js": "/dnyaneshwargit/suit/precache-manifest.24f0b0a47b3af38f920b7ac587d57de0.js",
+    "service-worker.js": "/dnyaneshwargit/suit/service-worker.js",
+    "static/css/2.fa4a79a6.chunk.css.map": "/dnyaneshwargit/suit/static/css/2.fa4a79a6.chunk.css.map",
+    "static/css/main.0d83af2e.chunk.css.map": "/dnyaneshwargit/suit/static/css/main.0d83af2e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83f3f065.js",
+    "static/css/2.fa4a79a6.chunk.css",
+    "static/js/2.1ea631b7.chunk.js",
+    "static/css/main.0d83af2e.chunk.css",
+    "static/js/main.a7436ee8.chunk.js"
+  ]
+}

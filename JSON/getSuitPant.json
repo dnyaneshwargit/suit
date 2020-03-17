@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "name": "Fit",
+    "designType": "pant",
+    "class": "suit-icon-Pant_Fit_Main_Icon",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "parent": "pantfit",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Regular_Fit",
+        "designType": "pant",
+        "name": "Regular Fit",
+        "status":1
+      },
+      {
+        "id": "2",
+        "parent": "pantfit",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Slim_Fit",
+        "designType": "pant",
+        "name": "Slim Fit",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pleats",
+    "designType": "pant",
+    "class": "suit-icon-Pant_Pleated",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "parent": "pantpleats",
+        "price": "0.00",
+        "class": "suit-icon-No",
+        "designType": "pant",
+        "name": "No Pleat",
+        "status":1
+      },
+      {
+        "id": "2",
+        "parent": "pantpleats",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Pleated",
+        "designType": "pant",
+        "name": "Single Pleat",
+        "status":1
+      },
+      {
+        "id": "3",
+        "parent": "pantpleats",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Double_Pleats",
+        "designType": "pant",
+        "name": "Double Pleat",
+        "status":1
+      }      
+    ]
+  },
+  {
+    "id": 3,
+    "name": "fastening",
+    "designType": "pant",
+    "class": "suit-icon-Pant_Fastening_Main_Icon",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "parent": "pantfastening",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Centered",
+        "designType": "pant",
+        "name": "Centered",
+        "status":1
+      },
+      {
+        "id": "2",
+        "parent": "pantfastening",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Off_Centered_Buttonless",
+        "designType": "pant",
+        "name": "Off Centered",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "pockets",
+    "designType": "pant",
+    "class": "suit-icon-Pant_Rounded_Pocket",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "parent": "pantpockets",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Rounded_Pocket",
+        "designType": "pant",
+        "name": "Rounded Pocket",
+        "status":1
+      },
+      {
+        "id": "2",
+        "parent": "pantpockets",
+        "price": "0.00",
+        "class": "suit-icon-Pant_No_Button",
+        "designType": "pant",
+        "name": "Diagonal Pocket",
+        "status":1
+      },
+      {
+        "id": "3",
+        "parent": "pantpockets",
+        "price": "0.00",
+        "class": "suit-icon-Pant_Vertical_Pocket",
+        "designType": "pant",
+        "name": "Vertical Pocket",
+        "status":1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cuffs",
+    "designType": "pant",
+    "class": "suit-icon-Pant_No_Pant_Cuffs",
+    "status":1,
+    "style": [
+      {
+        "id": "1",
+        "parent": "pantcuffs",
+        "price": "0.00",
+        "class": "suit-icon-Pant_No_Pant_Cuffs",
+        "designType": "pant",
+        "name": "No Cuffs",
+        "status":1
+      },
+      {
+        "id": "2",
+        "parent": "pantcuffs",
+        "price": "0.00",
+        "class": "suit-icon-With_Pant_Cuffs",
+        "designType": "pant",
+        "name": "Traditional Cuffs",
+        "status":1
+      }
+    ]
+  }
+]

@@ -1,0 +1,213 @@
+{
+  "fabric": [
+      {
+        "id": "6",
+        "type": "Wool, Silk & Linen",
+        "price": "20.00",
+        "name": "Fabric 6",
+        "article_number": "OP1856",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1856_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1856_1000x1000.jpg",
+        "button_color": "2",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Luxury Wool",
+        "pattern_parent": "Checks",
+        "color_parent": "White",
+        "collection_parent": "Mondo",
+        "parent": "fabric"
+    }, {
+          "id": "7",
+          "type": "Linen",   
+          "price": "20.00",
+          "name": "Fabric 7",
+          "article_number": "OP1827",
+          "composition": "65%WOOL, 20%SILK, 15%LINEN",
+          "weight": "25g",
+          "fabric_360": "media/men/fabric_images/display_thumb/OP1827_360x360.jpg",
+          "fabric_1000": "media/men/fabric_images/OP1827_1000x1000.jpg",
+          "button_color": "2",
+          "tie_color": "1",
+          "shoes_color": "1",
+          "material_parent": "Luxury Wool",
+          "pattern_parent": "Checks",
+          "color_parent": "Blue",
+          "collection_parent": "Mondo",
+          "parent": "fabric"
+      },
+      {
+        "id": "10",
+        "type": "Wool",
+        "price": "10.00",
+        "name": "Fabric 10",
+        "article_number": "OP1843",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1843_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1843_1000x1000.jpg",
+        "button_color": "2",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Wool, Silk & Linen",
+        "pattern_parent": "Checks",
+        "color_parent": "Black",
+        "collection_parent": "Mondo",
+        "parent": "fabric"
+    },{
+        "id": "12",
+        "type": "Wool & Silk",
+        "price": "52.00",
+        "name": "Fabric 12",
+        "article_number": "OP1843",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1804_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1804_1000x1000.jpg",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Luxury Wool",
+        "pattern_parent": "Plain",
+        "color_parent": "White",
+        "collection_parent": "Mondo",
+        "parent": "fabric"
+    },
+      {
+        "id": "13",
+        "type": "Linen",
+        "price": "15.00",
+        "name": "Fabric 13",
+        "article_number": "OP1846",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1846_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1846_1000x1000.jpg",
+        "button_color": "2",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Luxury Wool",
+        "pattern_parent": "Checks",
+        "color_parent": "Blue",
+        "collection_parent": "Mondo",
+        "parent": "fabric"
+    },
+      {
+        "id": "14",
+        "type": "Wool, Silk & Linen",
+        "price": "11.00",
+        "name": "Fabric 14",
+        "article_number": "OP1843",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1815_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1815_1000x1000.jpg",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Luxury Wool",
+        "pattern_parent": "Checks",
+        "color_parent": "White",
+        "collection_parent": "Blazer",
+        "parent": "fabric"
+    }, 
+      {
+        "id": "15",
+        "type": "Silk & Linen",
+        "price": "52.00",
+        "name": "Fabric 15",
+        "article_number": "OP1843",
+        "composition": "65%WOOL, 20%SILK, 15%LINEN",
+        "weight": "25g",
+        "fabric_360": "media/men/fabric_images/display_thumb/OP1809_360x360.jpg",
+        "fabric_1000": "media/men/fabric_images/OP1809_1000x1000.jpg",
+        "tie_color": "1",
+        "shoes_color": "1",
+        "material_parent": "Luxury Wool",
+        "pattern_parent": "Checks",
+        "color_parent": "White",
+        "collection_parent": "Blazer",
+        "parent": "fabric"
+    },
+    {
+          "id": "16",
+          "type": "Silk & Linen",
+          "price": "20.00",
+          "name": "Fabric 16",
+          "article_number": "OP1857",
+          "composition": "65%WOOL, 20%SILK, 15%LINEN",
+          "weight": "25g",
+          "fabric_360": "media/men/fabric_images/display_thumb/OP1857_360x360.jpg",
+          "fabric_1000": "media/men/fabric_images/OP1857_1000x1000.jpg",
+          "button_color": "2",
+          "tie_color": "1",
+          "shoes_color": "1",
+          "material_parent": "Wool, Silk & Linen",
+          "pattern_parent": "Checks",
+          "color_parent": "Blue",
+          "collection_parent": "Mondo",
+          "parent": "fabric"
+      }
+  ],
+  "category": [
+    [
+          {
+              "id": "2",
+              "name": "Luxury Wool",
+              "parent": "material"
+          },
+          {
+              "id": "3",
+              "name": "Wool, Silk & Linen",
+              "parent": "material"
+          }
+      ]
+    ,
+    [
+          {
+              "id": "1",
+              "name": "Checks",
+              "parent": "pattern"
+          },
+          {
+              "id": "2",
+              "name": "Plain",
+              "parent": "pattern"
+          }, {
+              "id": "3",
+              "name": "Lining",
+              "parent": "pattern"
+          }, {
+              "id": "4",
+              "name": "Dotted",
+              "parent": "pattern"
+          }
+      ]
+    ,
+     [
+          {
+              "id": "2",
+              "name": "Blue",
+              "parent": "color"
+          },
+          {
+              "id": "3",
+              "name": "White",
+              "parent": "color"
+          }
+      ]
+    ,
+    [
+          {
+              "id": "1",
+              "name": "Cotton",
+              "parent": "collection"
+          },
+          {
+              "id": "2",
+              "name": "Linen",
+              "parent": "collection"
+          }
+      ]
+    
+  ]
+}
